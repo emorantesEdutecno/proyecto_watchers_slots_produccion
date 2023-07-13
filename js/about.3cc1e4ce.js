@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_watchers_slots"]=self["webpackChunkproyecto_watchers_slots"]||[]).push([[443],{782:function(t,s,e){e.r(s),e.d(s,{default:function(){return h}});var n=e(252);const r={class:"about"},a=(0,n._)("h1",null,"This is an about page",-1),c=[a];function o(t,s){return(0,n.wg)(),(0,n.iD)("div",r,c)}var u=e(744);const i={},l=(0,u.Z)(i,[["render",o]]);var h=l}}]);
+//# sourceMappingURL=about.3cc1e4ce.js.map
